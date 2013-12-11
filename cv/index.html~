@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <title>Lauren Still &mdash; C.V.</title>
+
+    <meta name="author" content="Lauren Still">
+
+    <script type="text/javascript" src="//use.typekit.com/phg8fgl.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+    <link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700" rel="stylesheet" type="text/css">
+    <link href="/assets/normalize.css" rel="stylesheet" type="text/css">
+    <link href="cv.css" rel="stylesheet" type="text/css">
+
+    <link rel="shortcut icon" href="/assets/faviconls.png">
+
+</head>
+<body>
+    <div id="container">
+        <header>
+            <div id="address">
+            <span class="name">Lauren Still</span><br>
+                Health IT Developer<br>
+                San Francisco, CA <br>
+            </div>
+            <div id="contact">
+                <span class="name">&nbsp;</span><br>
+                (571) 480-6367<br>
+                <a href="mailto:laurenstill@gmail.com">laurenstill@gmail.com</a><br>
+            </div>
+        </header>
+
+        <section>
+
+            <div class="indent">
+                <p>I'm a health IT developer &amp; policy consultant working on projects ranging from Federal interoperablity solutions, start-up device regulation policy, business  &amp; technical planning, social media strategy  &amp; mobile security.</p>
+
+                <p>I'm interested in lean hardware development, quantified self,  &amp; disruptive healthcare solutions.  I am particularly interested in open data,  &amp; user data ownership rights in the health, wellness  &amp; medical marketplace. </p>
+            </div>
+
+        </section>
+
+        <section>
+            <h2>Education</h2>
+
+            <ul>
+                <li>
+                    <span class="date">2012</span>
+                    <span class="position">Fellow</span>,
+                    <span class="institute">Hackbright</span>,
+                    <span class="loc">San Francisco, CA</span>
+                    <span class="meta">Area of Study: Responsive Web Design, Database Architecture, RESTful API Design, Cryptography, Data Visualization, Agile Methodology, SEO Analytics, UI/UX
+                    </span>
+                </li>
+                <li>
+                    <span class="date">2010</span>
+                    <span class="position">Medical Informatics</span>,
+                    <span class="institute">University of West Florida</span>,
+                    <span class="loc">Pensacola, Fl </span>
+                    <span class="meta">Area of Study: Healthcare IT policy &amp; regulation, Public Health, Project management &amp; Implementation, Clinical workflow, Epidemiological Study Design &amp; Statistics, Healthcare Quality, Statisitics &amp; Database Management, Clinical Record Systems
+                    </span>
+                </li>
+                <li>
+                    <span class="date">2004&ndash;2007</span>
+                    <span class="position">Applied Statistics</span>,
+                    <span class="institute">University of Florida</span>,
+                    <span class="loc">Gainesville, Florida</span>
+                    <span class="meta">
+                        Area Of Study: Numerical Analysis, Regression Analysis, Linear Modeling, Bayesian Methodology, Statistical Programming
+                    </span>
+                </li>
+                <li>
+                    <span class="date">2002</span>
+                    <span class="position">MSE Fellow</span>,
+                    <span class="institute">University of Florida</span>,
+                    <span class="loc">Gainesville, Florida</span>
+                    <span class="meta">
+                        Area of Study: Hall Contact Anneal Optimization, Semiconductor Fabrication, Experiment Design, ANOVA
+                    </span>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Experience</h2>
+
+            <ul>
+                <li>
+                    <span class="date">2013</span>
+                    <span class="position">Developer</span>
+                    <span class="project">Hardware prototyping &amp; troubleshooting, firmware QA&amp; testing, webapp developement</span>
+                    <span class="meta">
+                        <a href="http://wwww.getaround.com">Getaround</a>, San Francisco, CA<br>
+                    </span>
+                </li>
+
+                <li>
+                    <span class="date">20013</span>
+                    <span class="position">Engineering Consultant</span>,
+
+                    <span class="project">Trust Authorization process planning &amp; automation, technology recommendations</span>
+
+                    <span class="meta">
+                        <a href="http://wwww.directtrust.org">DirectTrust</a>, Washington, DC
+                    </span>
+                </li>
+
+                <li>
+                    <span class="date">2007 &ndash; 2013</span>
+                    <span class="position">Health IT Consultant</span>,
+                    <span class="project">Healthcare regulation &amp; policy consulting, technical support, new media strategy </span>
+                    <span class="meta">
+                        Independent Consultant, Boca Raton, FL
+                    </span>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Publications</h2>
+
+            <ul>
+                <li>
+                    <span class="date">2012 &ndash; 2013</span>
+                    <span class="title"><a href="http://women2.com">
+                            Women2.0 </a> Feature writer on women's health issues, healthcare policy &amp; technical regulations.</span>
+                </li>
+                <li>
+                    <span class="date">2013</span>
+                    <span class="title"><a href="http://wwww.himssmedia.com">
+                            HIMSS Media </a> Contributing writer focusing on mobile healthcare privacy &amp; app security, health IT start-ups &amp; progect management.</span>
+                </li>
+                <li>
+                    <span class="date">2013</span>
+                    <span class="title"><a href="http://wwww.health2con.com">
+                            Health2.0 SF </a> Technical lead &amp; content manager for the SF chapter.</span>
+                </li>
+                <li>
+                    <span class="date">2013</span>
+                    <span class="title"><a href="http://wwww.tedxsf.org">
+                            TEDxSF </a> New Media &amp; A/V support for events.</span>
+                </li>
+                <li>
+                    <span class="date">2013</span>
+                    <span class="title"><a href="http://wwww.hl7st&amp;ards.com">
+                            HL7St&amp;ards </a> Contributing writer focusing on mobile healthcare privacy &amp; app security.</span>
+                </li>
+            </ul>
+        </section>
+
+         <section>
+            <h2>Open Source</h2>
+
+            <ul>
+                <li>
+                    <span class="date">2013</span>
+                    <span class="position">Developer</span>
+                    <span class="project">Advocacy platform for health data ownership awareness</span>
+                    <span class="meta">
+                    <a href="http://wwww.doxnosis.org">doxnosis</a>, San Francisco, CA<br>
+                    </span>
+                </li>
+                <li>
+                    <span class="date">20013</span>
+                    <span class="position">Team Member</span>,
+                    <span class="project"><a href="http://bit.ly/eobpreso">WTFDenied</a> EoB Resign &amp; BlueButton integration project</span>
+                    <span class="meta">
+                        <a href+"http://www.health2con.com/devchallenge/health-2-0-sf-code-a-thon-2013/">Health2.0 &amp; ONC Developer Challenge</a>
+                    </span>
+                </li>
+                <li>
+                    <span class="date">2013</span>
+                    <span class="position">Developer</span>,
+                    <span class="project">Cancer clinical trials location map &amp; data visualization</span>
+                    <span class="meta">
+                        <a href="http://www.cancer.gov/cancertopics/factsheet/clinicaltrials/clinical-trials">National Cancer Institute</a>
+                    </span>
+                </li>
+
+                <li>
+                    <span class="date">2013</span>
+                    <span class="position">Contributor</span>,
+                    <span class="project">CPOE Design &amp; Development</span>
+                    <span class="meta">
+                        <a href="http://wiki.openmrs.org">OpenMRS</a>
+                    </span>
+                </li>
+            </ul>
+        </section>
+
+        <!-- <section> -->
+        <!--     <h2>Unrefereed Publications</h2> -->
+
+        <!--     <ul> -->
+        <!--     </ul> -->
+        <!-- </section> -->
+
+
+        <footer>
+            Last updated: December 7, 2013
+        </footer>
+
+    </div>
+
+    <script type="text/javascript">
+        var _gauges = _gauges || [];
+        (function() {
+            var t   = document.createElement('script');
+            t.type  = 'text/javascript';
+            t.async = true;
+            t.id    = 'gauges-tracker';
+            t.setAttribute('data-site-id', '510fb7df613f5d10200000c4');
+            t.src = '//secure.gaug.es/track.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(t, s);
+        })();
+    </script>
+
+</body>
+</html>
+

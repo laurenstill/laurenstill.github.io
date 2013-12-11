@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <title>{{ page.title }}</title>
+
+   <meta name="description" content="Lauren Still is a health IT developer and regulations consultant.">
+    <meta name="keywords" content="Lauren Still, doxnosis, health IT, healthcare, mobile health, mhealth, Direct Project, Blue Button">
+    <meta name="author" content="Lauren Still">
+
+    <script type="text/javascript" src="//use.typekit.com/phg8fgl.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+    <link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700" rel="stylesheet" type="text/css">
+    <link href="/assets/normalize.css" rel="stylesheet" type="text/css">
+    <link href="/assets/screen.css" rel="stylesheet" type="text/css">
+    <link href="/assets/syntax.css" rel="stylesheet" type="text/css">
+    <link href="/assets/font-awesome.css" rel="stylesheet" type="text/css">
+
+
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-left">
+                <img src="/assets/avatar.png">
+            </div>
+            <div class="header-right">
+                <h1><a href="/">Lauren Still</a></h1>
+                 <p class="header-tagline">
+                    Health IT Developer<br>
+                    <a href="http://twitter.com/laurencstill">
+                    <i class="icon-twitter"></i> </a>
+
+                    <a href="https://github.com/laurenstill">
+                    <i class="icon-github-alt"></i> </a>
+
+                    <a href="https://plus.google.com/+LaurenStill">
+                    <i class="icon-google-plus"></i> </a>
+    
+                    <a href="https://linkedin.com/in/laurencstill">
+                    <i class="icon-linkedin"></i> </a>
+
+                    <a href="mailto:laurenstill@gmail.com">
+                    <i class="icon-envelope-alt"></i> </a>
+
+                    <a href="tel:+15714806367">
+                    <i class="icon-phone"></i> </a>
+
+                    <a href="/cv/">
+                    <i class="icon-list"></i> </a>
+                </p>
+                <p class="header-tagline">
+                </p>
+            </div>
+        </header>
+
+        {{ content }}
+
+        <footer>
+            <p>
+                This blog is built with <a href="http://jekyllrb.com/">Jekyll</a> is hosted by <a href="http://pages.github.com/">Github</a> and licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a>.
+            </p>
+        </footer>
+
+    </div>
+
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-22909046-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <script type="text/javascript">
+        var _gauges = _gauges || [];(function() {var t=document.createElement('script');t.type='text/javascript';t.async=true;t.id='gauges-tracker';
+        t.setAttribute('data-site-id', '510fb7df613f5d10200000c4');t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(t, s);})();
+    </script>
+
+</body>
+</html>
+
