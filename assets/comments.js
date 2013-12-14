@@ -1,4 +1,4 @@
-var github_url = "https://github.com/laurenstill/laurenstil.github.io/edit/master/_posts/";
+var github_url = "https://github.com/laurenstill/laurenstill.github.io/edit/master/_posts/";
 
 $(function() {
     var obj = $("#comments").next();
