@@ -3,7 +3,7 @@ layout: post
 title: Establishing Confidence in the mHeath Markeplace
 catagories: [healhtIT, mHealth, infosec]
 ---
-*This post originally appeared in [mHealthNews][mHealthNews], a [HiMSS Media][HiMSS Media] affiliate for the 2013 [mHealthSummit][mHealthSummit] Conference.*      
+*This post originally appeared in [HL7Standards][HL7S], a [CarepointHealth][CarepointHealth] affiliate for the 2013 [mHealthSummit][mhs] Conference.*      
 
 
 Consider this:    
@@ -44,9 +44,10 @@ Developers, focus on clinical quality, real information security, and carefully 
 
 
 
-[mHealthNews]: http://wwww.mhealthnews.com
-[HiMSS Media]: http://wwww.himssmedia.com
-[mHealthSummit]: http://www.mhealthsummit.org
+
+[HL7S]: http://wwww.hl7standards.com
+[CarepointHealth]: http://www.corepointhealth.com/
+[mhs]: http://www.mhealthsummit.org/
 
 
 [1]: http://www.pewinternet.org/Reports/2013/The-Diagnosis-Difference
