@@ -12,7 +12,8 @@ Eventually, due to a geographical change, I had to seek out new employment.  My 
 
 So what did I do to bring about such a drastic change in compensation, and quality of life?  I didn’t just graduate, there was no new certification, no nepotism, no added job skill that I didn’t already posses at my previous role.
 
-It’s really more about what I didn’t do.
+It’s really more about what I didn’t do.  
+
 I didn’t move on when it was clear I had outgrown the role.
 I didn’t fight for promotions, bonuses, benefits, responsibility.
 I didn’t fight against my own fear and self doubt, insecurity.
