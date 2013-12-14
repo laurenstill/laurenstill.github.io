@@ -27,7 +27,7 @@ Responsibility also lies on the health IT and mhealth community members, particu
 
 Furthermore, be an example of good personal security practices, and hold the companies you use to a higher standard. A little critical thinking goes a long way. For example, do you use a pin code or a pattern?  Do you know that a five-digit password has 5,904,900,000 combinations while a pattern combination only has  15,120 combinations?  Do you what how companies use and store your data? Do you know who to contact if there is a breach?
 
-
+## Comments
 
 [mHealthNews]: http://wwww.mhealthnews.com
 [HiMSS Media]: http://www.himssmedia.com/
