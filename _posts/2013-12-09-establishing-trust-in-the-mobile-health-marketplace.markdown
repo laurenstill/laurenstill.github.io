@@ -45,7 +45,7 @@ Developers, focus on clinical quality, real information security, and carefully 
 
 
 
-[HL7S]: http://wwww.hl7standards.com
+[HL7S]: http://www.hl7standards.com/blog/2013/12/16/establishing-trust-in-the-mhealth-marketplace/
 [CarepointHealth]: http://www.corepointhealth.com/
 [mhs]: http://www.mhealthsummit.org/
 
