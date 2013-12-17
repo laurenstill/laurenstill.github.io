@@ -3,7 +3,7 @@ layout: post
 title: Establishing Confidence in the mHeath Markeplace
 catagories: [healhtIT, mHealth, infosec]
 ---
-*This post originally appeared in [HL7Standards][HL7S], a [CarepointHealth][CarepointHealth] affiliate for the 2013 [mHealthSummit][mhs] Conference.*      
+*A revised version of this post was published in [HL7Standards][HL7S], a [CarepointHealth][CarepointHealth] affiliate for the 2013 [mHealthSummit][mhs] Conference. Happtique has since since [suspended][suspended] their app certification program and is re-evaluating their relationship with Intertek, and their credentialling process.*      
 
 
 Consider this:    
@@ -48,6 +48,7 @@ Developers, focus on clinical quality, real information security, and carefully 
 [HL7S]: http://www.hl7standards.com/blog/2013/12/16/establishing-trust-in-the-mhealth-marketplace/
 [CarepointHealth]: http://www.corepointhealth.com/
 [mhs]: http://www.mhealthsummit.org/
+[suspended]: http://www.happtique.com/app-certification/registry-statement/
 
 
 [1]: http://www.pewinternet.org/Reports/2013/The-Diagnosis-Difference
