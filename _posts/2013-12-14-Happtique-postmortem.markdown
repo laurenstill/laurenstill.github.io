@@ -3,7 +3,9 @@ layout: post
 title: Happtique Postmortem and Security Best Practices
 catagories: [healhtIT, mHealth, infosec]
 ---
-*This post originally appeared in [mHealthNews][mHealthNews], a [HiMSS Media][HiMSS Media] affiliate for the 2013 [mHealthSummit][mhs] Conference.*      
+*This post originally appeared in [mHealthNews][mHealthNews], a [HiMSS Media][HiMSS Media] affiliate for the 2013 [mHealthSummit][mHealthSummit] Conference.*      
+
+
 
 Last week [GNYHA Ventures][1] backed Happtique [suspended][2] their app certification platform after Harold Smith, CEO of [MonktonHealth][3], [discovered][4] that several of the certified apps had egregious and easy-to-avoid security vulnerabilities. It’s becoming increasingly difficult to decipher what constitutes acceptable security practices and to what level mobile health developers should be held. It’s important to keep in mind that the threat is constantly outpacing technology, and an agile, iterative approach to data security is essential. Given that mobile app development presents a new set of challenges different from traditional web app development, what can mhealth developers do?  
 
@@ -27,6 +29,12 @@ Last week [GNYHA Ventures][1] backed Happtique [suspended][2] their app certific
 
 
 10)  Be an example.  As for users, particularly health IT and mhealth community members, be an example of good personal security practices, and hold the companies you use to a higher standard.  Critically evaluate the necessity of permissions you grant a program, and don’t install apps outside of official OS app stores. Update passwords often, and use a password manager like [LastPass][24] and two-factor authentication when available.  Enable [remote wipe][25] on your device and back up your information regularly.  Also consider developing an alternative fake personal dataset since, thanks to Facebook, everyone knows  your favorite pet, first car and mother’s maiden name.  
+
+
+
+[mHealthNews]: http://www.mhealthnews.com
+[HiMSS Media]: http://www.himssmedia.com
+[mHealthSummit]: http://www.mhealthsummit.org
 
 
 [1]: http://www.gnyha.org/2877/Default.aspx
