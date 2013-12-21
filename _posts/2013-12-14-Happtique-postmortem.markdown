@@ -3,7 +3,7 @@ layout: post
 title: Happtique Postmortem and Security Best Practices
 catagories: [healhtIT, mHealth, infosec]
 ---
-*This post originally appeared in [mHealthNews][mHealthNews], a [HiMSS Media][HiMSS Media] affiliate for the 2013 [mHealthSummit][mHealthSummit] Conference.*      
+*A slightly modified version of this post originally appeared in [mHealthNews][mHealthNews], a [HiMSS Media][HiMSS Media] affiliate for the 2013 [mHealthSummit][mHealthSummit] Conference.*      
 
 
 
@@ -32,7 +32,7 @@ Last week [GNYHA Ventures][1] backed Happtique [suspended][2] their app certific
 
 
 
-[mHealthNews]: http://www.mhealthnews.com
+[mHealthNews]: http://www.mhealthnews.com/news/10-tips-building-secure-mhealth-apps
 [HiMSS Media]: http://www.himssmedia.com
 [mHealthSummit]: http://www.mhealthsummit.org
 
