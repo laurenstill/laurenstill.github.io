@@ -4,6 +4,11 @@ title: Identity and Employment
 catagories: [misc, work]
 ---
 
+*Originally drafted for inclusion in [Women2.0][Women2.0] as part of an "In-Hindsight" Founders' Series.*
+
+[Women2.0]: http://women2.com/
+
+
 Money.  So much of our self worth is tied to little numbers on a page and job titles on a business card.
 
 I got my start in healthcare many years ago, working an entry level job doing medical billing and coding for $15/hr.  I worked my butt off at the role, being the best damn biller and coder I could be, but there were no raises, no bonuses and it didn’t take long for me to internalize the position as part of my identity.  
