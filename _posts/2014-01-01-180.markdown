@@ -5,13 +5,15 @@ date:   2014-01-01 12:48:42
 categories: programming
 ---
 
-Six months ago I came across [Jennifer Dewalt's][1] post on [HN][2] and made a plegde that I would try something similar in the near future.  The sites/pages/projects are simple and often focus on my problem areas (um, hello JS) and I believe it will be different enough from work to stay kinda fun.  That's the point, right?
+Six months ago I came across [Jennifer Dewalt's][1] post on [HN][2] and made a plegde that I would try something similar in the near future.  The sites/pages/projects are simple and often focus on my problem areas (um, hello JS) and I believe it will be different enough from my daily work to maintain interest. Plus, they are appropriate for Science Saturdays, youth outreach, etc, and that's really my main goal.  
 
-I probably wont do one/day, but I am realistically aiming for 3-4 per week.  I'll list all the pages here, and update as I go.  As for other New Year resolutions, I'm hoping to present at conferences more, and write professionally on a somewhat regular basis (healthcaare IT, security, mobile health, etc).  Generally, put myself out there, in the community, in front of real live people who may not always say nice things.  It'll be ok.  
+I will be pair programing on these projects with a couple of kids from various programs, and we'll just see how it goes. I'll list all the pages here, and update as much as possible, and if it's appropriate we'll make a separate team page to better communicate their individual voices. I think collectively, the scope of these pages will work well for such a project, allowing for a certain level of real world inconsistancy, preventing project burnout and having a "choose your own adventure" type feel.  We will tackle the assignments and concepts when they want to, and how they choose.
+
+As for other New Year resolutions, I'm hoping to present at conferences more, and write professionally on a somewhat regular basis (healthcaare IT, security, mobile health, etc).  Generally, put myself out there, in the community, in front of real live people who may not always say nice things.  It'll be ok.  
 
 On a personal level, I'm focusing on empathy.  I didn't see nearly enough in the community in 2013.  
 
-And yes, this blog counts as site numero uno.  Happy 2014!
+Looking forward to a happy and healthy 2014!
 
 
 
