@@ -1,8 +1,7 @@
-
 ---
     layout: post
     title: HiMSS 2014
-    excerpt: HiMSS
+    catagories: [healhtIT, mHealth, himss]
 ---
 
 
