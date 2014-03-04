@@ -1,6 +1,6 @@
 ---
     layout: post
-    title: HIMSS14
+    title: &#35;HIMSS14
     catagories: [healhtIT, mHealth, himss]
 ---
 
