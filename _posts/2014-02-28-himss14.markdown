@@ -17,5 +17,9 @@ It's pretty horrible, but everyone starts somewhere.  It ended up getting some r
 That being said, it was pretty silly, and I threw in things like #HITbros as a semi-private joke, not thinking anyone would take it seriously.  Lesson learned?  You never know what will spread online...  I'm looking forward to building a few more, and exploring more graphical representations of health information data in a serious light, and not just #HITsm fluff work.  It's a nice creative break from dry health IT policy and regulations, and proved valuable for both my personal agenda, and the greater community. 
 
 
+If you're interested in leveraging Twitter specifically for health IT networking, take a look at [Symplur][3].  I have been engaging in the #HITsm, #hcsm, #HCLDR and #spsm chats regularly throughout the past two years, but there's so much more to explore.  It's nice knowing if I'm in a strange city for some strange conference, I know I have at least a couple friends around. 
+
+
 [1]: http://www.himssconference.org/
 [2]: http://www.hl7standards.com/blog/2014/02/19/infographic-social-media-in-health-technology/
+[3]: http://www.symplur.com/healthcare-hashtags/tweet-chats/
