@@ -23,4 +23,4 @@ If you're interested in leveraging Twitter specifically for health IT networking
 [1]: http://www.himssconference.org/
 [2]: http://www.hl7standards.com/blog/2014/02/19/infographic-social-media-in-health-technology/
 [3]: http://www.symplur.com/healthcare-hashtags/tweet-chats/
-[4]: media/HIMSS14_infographic.png
+[4]: http://www.laurencstill.com/media/HIMSS14_infographic.png
