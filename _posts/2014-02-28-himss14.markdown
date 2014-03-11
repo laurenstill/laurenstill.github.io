@@ -10,11 +10,11 @@
 
 My yearly nerdprom in healthcare IT is a little 40k attendee shindig each spring put on by [HIMSS][1], the Health Information and Management Systems Society. This wasn't my first year attending, but in previous years I mostly kept to myself, did some edu sessions and then bunkered down in my hotel at night.  It's a somewhat intimidating event for me.  Read: very intimidating. Since a major personal goal of mine in 2014 is to actually _meet_ people and connect, I wanted a way to leverage social media during that awkward first hello. 
 
-I've also been increasingly interested in infographics, and learning more about data design (and how horrible graphical representations usually are) so I merged the two together projects together.  A week before the conference, [HL7Standards][2] was kind enough to publish an infographic I threw together for those who use health IT social media like I do. 
+I've also been increasingly interested in infographics, and learning more about data design (and how horrible graphical representations usually are) so I merged the two projects together.  A week before the conference, [HL7Standards][2] was kind enough to publish an infographic I threw together for those who use health IT social media like I do. 
 
-The infographic is pretty junior, but everyone starts somewhere.  I threw in things like #HITbros as a semi-private joke, not thinking anyone would take it seriously.  Lesson learned?  You never know what will spread online... It ended up getting some reasonable traction within the community, and more than once during introductions, people were able to associate my name with the piece.  Seems that many people are visual learners like myself. Mission accomplished.
+The infographic is pretty junior, but everyone starts somewhere.  I threw in things like #HITbros as a semi-private joke, not thinking anyone would take it seriously.  Lesson learned?  You never know what will spread online... It ended up getting some reasonable traction within the community (and my team at [DICOM Grid][5] liked it), and more than once during introductions, people were able to associate my name with the piece.  Seems that many people are visual learners like myself. Mission accomplished.
 
-I'm looking forward to building a few more, and exploring more graphical representations of health information data in a serious light, and not just #HITsm fluff work.  Specifically, I want to explore HIE and Direct data, as well as patient engagement and imaging networks.  I found the exercise to be a nice creative break from dry health IT policy and regulations, and proved valuable for both my personal agenda, and the greater community. 
+I'm looking forward to building a few more, and exploring more graphical representations of health information data in a serious light, and not just #HITsm fluff work.  Specifically, I want to explore HIE and Direct data, as well as patient engagement, diabetic care and imaging networks.  I found the exercise to be a nice creative break from dry health IT policy and regulations, and proved valuable for both my personal agenda, and the greater community. 
 
 If you're interested in leveraging Twitter specifically for health IT networking, take a look at [Symplur][3].  I have been engaging in the #HITsm, #hcsm, #HCLDR and #spsm chats regularly throughout the past two years, but there's so much more to explore.  It's nice knowing if I'm in a strange city for some strange conference, I know I have at least a couple friends around. 
 
@@ -23,3 +23,4 @@ If you're interested in leveraging Twitter specifically for health IT networking
 [2]: http://www.hl7standards.com/blog/2014/02/19/infographic-social-media-in-health-technology/
 [3]: http://www.symplur.com/healthcare-hashtags/tweet-chats/
 [4]: http://www.laurencstill.com/media/HIMSS14_infographic.png
+[5]: http://blog.dicomgrid.com/blog
