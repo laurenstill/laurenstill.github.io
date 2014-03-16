@@ -3,7 +3,7 @@
     title: Code of Conduct
     catagories: [healhtIT, mHealth, himss]
 ---
-*<a href="http://www.laurencstill.com/himssplzrespond.html">And open letter to HIMSS</a>*
+*<a href="http://www.laurencstill.com/himssplzrespond.html">An Open Letter to HIMSS</a>*
 
 
 Still trying to get any response from <a href="http://www.himss.org">HIMSS</a> regarding their code of conduct and procedures and contact information for reporting sexual harrassment and assualt situations. Something, anything. 
