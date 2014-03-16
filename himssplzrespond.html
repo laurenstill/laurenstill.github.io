@@ -14,7 +14,7 @@ DayCounter.prototype.calculate=function(){
     var tmp = (tmp = secDiff/86400) < 1? 0 : Math.floor(tmp);
     var days = (tmp < 10 ? ("00" + tmp) : tmp < 100 ? ("0" + tmp) : tmp);
     this.container.innerHTML = 
-        "<strong>" + "Actually, it's been" + days + "</strong> " + (days == 1? "Day" : "Days of radio silence.");
+       "Actually, it's been " + "<strong>" + days + "</strong> " + (days == 1? "Day" : "Days of radio silence.");
     var self = this;
     setTimeout(function(){self.calculate();}, (++nextUpdate*1000));
 }
