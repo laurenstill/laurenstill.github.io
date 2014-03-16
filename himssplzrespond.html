@@ -1,5 +1,28 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
+<script type="text/javascript">
+function DayCounter(initDate, id){
+    this.beginDate = new Date(initDate);
+    this.container = document.getElementById(id);
+    this.calculate();
+}
+  
+DayCounter.prototype.calculate=function(){
+    var secDiff = Math.round(((new Date()) - this.beginDate)/1000);
+    var nextUpdate = 86400 - (secDiff % 86400);
+    var tmp = (tmp = secDiff/86400) < 1? 0 : Math.floor(tmp);
+    var days = (tmp < 10 ? ("00" + tmp) : tmp < 100 ? ("0" + tmp) : tmp);
+    this.container.innerHTML = 
+        "<strong>" + days + "</strong> " + (days == 1? "day" : "days");
+    var self = this;
+    setTimeout(function(){self.calculate();}, (++nextUpdate*1000));
+}
+ 
+window.onload=function(){ new DayCounter('June 11, 2011 19:00:00', 'counter'); }
+</script>
+
+
 <style type="text/css">
 body {
 background-color: #000;
@@ -36,6 +59,8 @@ width: 750px;
 text-align:center;
 }
 </style>
+</head>
+
 <title>HIMSS, please respond!</title>
 <body>
 <div id="question">
@@ -44,8 +69,11 @@ Days since HIMSS has ignored requests for information regarding conference code 
 <div id="main">
 Too Long. 
 </div>
+
 <div id="sub">
-Actually, it's been 81 days of radio silence.
+Actually, it's been 
+<div id="counter">Contents of this DIV will be replaced by the timer</div>
+days of radio silence.
 </div>
 
 <!-- <div id="header">
@@ -120,7 +148,5 @@ ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'st
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
-
-
 </html>
 
