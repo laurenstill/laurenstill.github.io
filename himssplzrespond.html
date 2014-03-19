@@ -14,7 +14,7 @@ DayCounter.prototype.calculate=function(){
     var tmp = (tmp = secDiff/86400) < 1? 0 : Math.floor(tmp);
     var days = (tmp < 10 ? ("00" + tmp) : tmp < 100 ? ("0" + tmp) : tmp);
     this.container.innerHTML = 
-       "Actually, it's been " + "<strong>" + days + "</strong> " + (days == 1? "Day" : "days.  A reply was finally received on Day 64 stating HIMSS legal counsel would be availble after the 72nd day.");
+       "Actually, it's been " + "<strong>" + days + "</strong> " + (days == 1? "Day" : "days without any infomation on how to report misconduct, or what constitutes misconduct.  A reply was finally received on Day 64 stating HIMSS legal counsel would be availble after the 72nd day.");
     var self = this;
     setTimeout(function(){self.calculate();}, (++nextUpdate*1000));
 }
