@@ -14,7 +14,7 @@ DayCounter.prototype.calculate=function(){
     var tmp = (tmp = secDiff/86400) < 1? 0 : Math.floor(tmp);
     var days = (tmp < 10 ? ("00" + tmp) : tmp < 100 ? ("0" + tmp) : tmp);
     this.container.innerHTML = 
-      "Too Long: " + "<strong>" + days + "</strong> " + (days == 1? "Day" : "Days");
+      "<strong>" + days + "</strong> " + (days == 1? "Day" : "Days");
     var self = this;
     setTimeout(function(){self.calculate();}, (++nextUpdate*1000));
 }
@@ -91,7 +91,7 @@ a:hover {background-color:#000;}
 
 
 <div id="sub">
- Without any information on how to report misconduct, or what even constitutes misconduct at a HIMSS event.   A reply was finally received on Day 64 stating HIMSS legal counsel would be available after the 72nd day.
+ Or, in other words, way too long.  Over two months without any reply or any information on how to report misconduct, or what even constitutes misconduct at a HIMSS event.   A response was finally received on Day 64 stating HIMSS legal counsel would be available after the 72nd day. Support a safe environment for all attendees, and <a href="mailto:himss@himss.org">email HIMSS</a> requesting they adopt the <a href="https://adainitiative.org/what-we-do/conference-policies/">The Ada Initiative Conference Anti-Harassment Policy Guidelines</a>.
 </div>
 
 
