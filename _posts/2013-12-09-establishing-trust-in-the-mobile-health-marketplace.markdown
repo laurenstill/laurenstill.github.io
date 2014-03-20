@@ -82,6 +82,8 @@ Developers, focus on clinical quality, real information security, and carefully 
 [29]: https://viaforensics.com/resources/presentations/
 [30]: http://www.research2guidance.com/us-1.3-billion-the-market-for-mhealth-applications-in-2012/
 
+[31]: http://www.laurencstill.com/media/happtique.png
+
 
 
 
