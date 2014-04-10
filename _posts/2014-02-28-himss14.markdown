@@ -1,12 +1,12 @@
 ---
     layout: post
-    title: HIMSS14
-    catagories: [healhtIT, mHealth, himss]
+    title: HIMSS14 Social Media
+    catagories: [healhtIT, mHealth, himss, SoMe]
 ---
 
 
 
-**[The Infographic][4]**
+**[HIMSS Social Media Infographic][4]**
 
 My yearly nerdprom in healthcare IT is a little 40k attendee shindig each spring put on by [HIMSS][1], the Health Information and Management Systems Society. This wasn't my first year attending, but in previous years I mostly kept to myself, did some edu sessions and then bunkered down in my hotel at night.  It's a somewhat intimidating event for me.  Read: very intimidating. Since a major personal goal of mine in 2014 is to actually _meet_ people and connect, I wanted a way to leverage social media during that awkward first hello. 
 
