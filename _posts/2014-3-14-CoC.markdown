@@ -1,6 +1,6 @@
 ---
     layout: post
-    title: Code of Conduct
+    title: Conference Code of Conduct
     catagories: [healhtIT, mHealth, himss]
 ---
 *<a href="http://www.laurencstill.com/himssplzrespond.html">An Open Letter to HIMSS</a>*
