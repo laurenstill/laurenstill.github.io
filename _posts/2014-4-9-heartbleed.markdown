@@ -30,7 +30,7 @@ Vendors should immediately assess their SSL security implementations for Heartbl
 
  Additionally, consider implementing [perfect forward secrecy][21] to prevent future private key compromises from affecting a whole application.  Organizations also have a duty to proactively notify their user base ([Heroku][22] does this exceptionally well), inform them of the potential risk, remediation actions and what end users can to do personally protect their information.  
 
-Obligatoy xkcd http://xkcd.com/1353/
+Obligatory [xkcd][http://xkcd.com/1353/]
 
 [1]: http://www.google.com/url?q=http%3A%2F%2Fheartbleed.com%2F&sa=D&sntz=1&usg=AFQjCNFtwctzsTrjivftlnHfhWRquUVjUQ
 [2]: https://tools.ietf.org/html/rfc6520
@@ -49,8 +49,7 @@ Obligatoy xkcd http://xkcd.com/1353/
 [15]: https://github.com/titanous/heartbleeder
 [16]: http://possible.lv/tools/hb/
 [17]: http://www.kalzumeus.com/2014/04/09/what-heartbleed-can-teach-the-oss-community-about-marketing/
-[18]: 
-http://www.washingtonpost.com/business/technology/apples-security-bug-what-to-know-about-it-and-what-to-do-about-it/2014/02/24/b59404e4-9d59-11e3-9ba6-800d1192d08b_story.html
+[18]: http://www.washingtonpost.com/business/technology/apples-security-bug-what-to-know-about-it-and-what-to-do-about-it/2014/02/24/b59404e4-9d59-11e3-9ba6-800d1192d08b_story.html
 [19]: http://arstechnica.com/security/2014/03/critical-crypto-bug-leaves-linux-hundreds-of-apps-open-to-eavesdropping/
 [20]: https://www.checktls.com/
 [21]: http://en.wikipedia.org/wiki/Forward_secrecy
