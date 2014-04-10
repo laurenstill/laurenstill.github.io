@@ -30,7 +30,9 @@ Vendors should immediately assess their SSL security implementations for Heartbl
 
  Additionally, consider implementing [perfect forward secrecy][21] to prevent future private key compromises from affecting a whole application.  Organizations also have a duty to proactively notify their user base ([Heroku][22] does this exceptionally well), inform them of the potential risk, remediation actions and what end users can to do personally protect their information.  
 
-Obligatory [xkcd][http://xkcd.com/1353/]
+Obligatory [xkcd][xkcd]
+
+[xkcd]: http://imgs.xkcd.com/comics/heartbleed.png
 
 [1]: http://www.google.com/url?q=http%3A%2F%2Fheartbleed.com%2F&sa=D&sntz=1&usg=AFQjCNFtwctzsTrjivftlnHfhWRquUVjUQ
 [2]: https://tools.ietf.org/html/rfc6520
