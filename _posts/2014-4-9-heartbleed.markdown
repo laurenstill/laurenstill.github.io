@@ -3,7 +3,7 @@ layout: post
 title: Heartbleed and HealthIT
 catagories: [healhtIT, mHealth, infosec]
 ---
-*An edited version of this post originally appeared in [mHealthNews][mHealthNews], a [HiMSS Media][HiMSS Media] affiliate afer [CVE-2014-0160][heartbleed] was publically disclosed.*   
+*An edited version of this post originally appeared in [mHealthNews][mHealthNews], a [HiMSS Media][HiMSS Media] affiliate afer the [CVE-2014-0160][heartbleed] bug was publically disclosed.*   
 
 [heartbleed]: http://heartbleed.com/
 [mHealthNews]: http://www.mhealthnews.com/news/10-tips-building-secure-mhealth-apps
