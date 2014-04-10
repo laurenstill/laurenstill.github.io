@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heartbleed and HealthIT
+title: Heartbleed and Healthcare IT
 catagories: [healhtIT, mHealth, infosec]
 ---
 *An edited version of this post originally appeared in [mHealthNews][mHealthNews], a [HiMSS Media][HiMSS Media] affiliate afer the [CVE-2014-0160][heartbleed] bug was publically disclosed.*   
