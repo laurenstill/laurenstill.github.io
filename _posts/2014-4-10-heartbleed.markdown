@@ -3,14 +3,14 @@ layout: post
 title: Heartbleed and Healthcare IT
 catagories: [healhtIT, mHealth, infosec]
 ---
-*An edited version of this post originally appeared in [GovernmentHealthIT][GovHIT], a [HiMSS Media][HiMSS Media] affiliate afer the [CVE-2014-0160][heartbleed] bug was publically disclosed. Also quoted, without consent or consult, in [FierceHealthIT][FierceHealthIT]'s coverage of the bug despite [submitting][danmailpic] an article to [Dan Bowman][danmail] on April 8, 2014.*   
+*An edited version of this post originally appeared in [GovernmentHealthIT][GovHIT], a [HiMSS Media][HiMSS Media] affiliate afer the [CVE-2014-0160][heartbleed] bug was publically disclosed. Also quoted, without consent or consult, in [FierceHealthIT][FierceHealthIT]'s coverage of the bug despite [submitting][email] an article to [Dan Bowman][danmail] on April 8, 2014.*   
 
 [heartbleed]: http://heartbleed.com/
 [GovHIT]: http://www.govhealthit.com/news/what-health-orgs-need-know-about-heartbleed
 [HiMSS Media]: http://www.himssmedia.com
 [FierceHealthIT]: http://www.fiercehealthit.com/story/heartbleed-what-impact-health-it/2014-04-11
 [danmail]: mailto:dbowman@fiercemarkets.com
-[danmailpic]: http://www.laurencstill.com/media/danmail.png
+[email]: http://www.laurencstill.com/media/danmail.png
 
 Monday, as the greater health IT collective was preparing for the Windows XP end of life date, and accompanying zero-day attacks, another major security exploit hit the market without warning. CVE-2014-0160, or [Heartbleed][1] (due to it exploiting a feature called [heartbeat][2]) nicknamed [by the security firm][3] who first publicly disclosed it, is a serious vulnerability -- a simple missing bounds check --  in OpenSSL cryptographic software library. SSL/TLS provides communication security and privacy via [X.509 certificates][4] over the internet for web applications and some virtual private networks. 
 
