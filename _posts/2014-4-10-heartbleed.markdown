@@ -10,7 +10,7 @@ catagories: [healhtIT, mHealth, infosec]
 [HiMSS Media]: http://www.himssmedia.com
 [FierceHealthIT]: http://www.fiercehealthit.com/story/heartbleed-what-impact-health-it/2014-04-11
 [danmail]: mailto:dbowman@fiercemarkets.com
-[email]: http://www.laurencstill.com/media/danmail.png
+[email]: https://raw.githubusercontent.com/laurenstill/laurenstill.github.io/gh-pages/media/danmail.png
 
 Monday, as the greater health IT collective was preparing for the Windows XP end of life date, and accompanying zero-day attacks, another major security exploit hit the market without warning. CVE-2014-0160, or [Heartbleed][1] (due to it exploiting a feature called [heartbeat][2]) nicknamed [by the security firm][3] who first publicly disclosed it, is a serious vulnerability -- a simple missing bounds check --  in OpenSSL cryptographic software library. SSL/TLS provides communication security and privacy via [X.509 certificates][4] over the internet for web applications and some virtual private networks. 
 
