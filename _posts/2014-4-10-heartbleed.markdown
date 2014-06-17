@@ -3,7 +3,7 @@ layout: post
 title: Heartbleed and Healthcare IT
 catagories: [healhtIT, mHealth, infosec]
 ---
-*An edited version of this post originally appeared in [GovernmentHealthIT][GovHIT], a [HiMSS Media][HiMSS Media] affiliate afer the [CVE-2014-0160][heartbleed] bug was publically disclosed. Also quoted in [FierceHealthIT][FierceHealthIT]'s coverage of the bug.* <!--  without consult, despite [submitting][email] an article to [Dan Bowman][danmail] on April 8, 2014. -->
+*An edited version of this post originally appeared in [GovernmentHealthIT][GovHIT], a [HiMSS Media][HiMSS Media] affiliate afer the [CVE-2014-0160][heartbleed] bug was publically disclosed. Also quoted, without consent or consult, in [FierceHealthIT][FierceHealthIT]'s coverage of the bug despite [submitting][email] an article to [Dan Bowman][danmail] on April 8, 2014.*   
 
 [heartbleed]: http://heartbleed.com/
 [GovHIT]: http://www.govhealthit.com/news/what-health-orgs-need-know-about-heartbleed
