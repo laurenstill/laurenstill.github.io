@@ -4,7 +4,7 @@ title: HealthDatapalooza Finals
 catagories: [healhtIT, hackathon, data, CMS, HDP]
 ---
 
-*This the closing remarks to a series of posts documenting three strangers 5k miles apart attempting work for the first time together on the [Health Data Consortium's][13] [HealthDataPalooza][14] [Code-A-Palooza][2].*
+*The closing remarks to a series of posts documenting three strangers 5k miles apart attempting work for the first time together on the [Health Data Consortium's][13] [HealthDataPalooza][14] [Code-A-Palooza][2].*
 
 It has been an insane month. 
 
