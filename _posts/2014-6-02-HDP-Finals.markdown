@@ -17,6 +17,8 @@ On a more personal note, we set out for this to be a community event, something 
 
 None of this would have been remotely possible without the help and support of the #HITsm community, and for that we are incredibly grateful.  We look forward to working with others in the open health data space, and as always welcome anyone who wishes to contribute however they may.  
 
+And, as always, a very special thanks to both Mandi and Nick who brought talent, insight and energy in spades. It was an honor to work with such brilliant teammates, there are no words that can truly express my gratitude for their selfless contributions to this project both personally and professionally. Thank you.
+
 [1]: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html
 [2]:http://healthdatapalooza.org/agenda/code-a-palooza-challenges/
 [3]: http://lyfechannel.com/ 
