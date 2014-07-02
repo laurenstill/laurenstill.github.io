@@ -14,9 +14,9 @@ My [domain experience][12] lays smack middle of the spectrum when it comes to he
 
 I needed someone who had no prior knowledge of healthcare IT, and only insight as a patient, while also needing someone with deep enterprise domaine experience.  I needed an individual with healthcare analytic skills, and another with deep data science and statistical knowledge. I needed someone who could balance networking, social media, branding and team identity, and craft a voice for our platform.  And I needed someone who could lead platform development, and tie everything together.  Mostly, I wanted to find a few people who would get as much of a kick out of the project as I knew I would. 
 
-I saw these traits, and more, in [Mandi][3] and [Nick][4], and am so thrilled to have joined with them for this challenge. My history with both is as varied as the skills they bring to the table:  I knew Nick back in highschool, but lost touch for 10 years until we recently reconnected through social media.  Mandi I knew through the healthcare conference circuit, but had only connected a few times.  Some 5,000 mile separated the three of us, connected only through laptops and a mutual goal.
+I saw these traits, and more, in [Mandi][3] and [Nick][4], and am so thrilled to have joined with them for this challenge. My history with both is as varied as the skills they bring to the table:  I knew Nick back in highschool, but lost touch for 10 years until we recently reconnected through social media.  Mandi I knew through the healthcare conference circuit, but had only connected a few times.  Some 5,000 miles separated the three of us, connected only through laptops and a mutual goal.
 
-The [#TeamFloriduh][11] moniker started as a joke, and a name placeholder, but stuck.  I think it  embodies our attitude and and direction rather well.  Florida has a history of leading in obesity, diabetes, medicare fraud and more while housing 
+The [#TeamFloriduh][11] moniker started as a joke, and a name placeholder, but stuck.  I think it  embodies our attitude and and direction rather well.  Florida has a history of leading in obesity, diabetes, medicare fraud and more, and is also home to the [fastest growing metropolitan area][15] in the US: The Villages retirement community.    
 
 Like all states, Florida must contend with [increasingly high rates of chronic illness][5] that will require highly coordinated, preventive care to improve outcomes and lower costs: 11 percent of adults in the state have diabetes; 63 percent are either overweight or obese; 8 percent have had asthma. Furthermore, 17 percent of Florida residents are over the age of 65, and 30 percent over the age of 55, and as such Florida must be capable of meeting the increased healthcare needs of its residents. Meanwhile, Florida places in [the top 10][6] regarding obesity and [ranks 43rd][7] when it comes to how well its healthcare system works for low income families and more than one in five residents are without insurance while some [41 percent of Floridians][8] fall into the low income category (earning less than $47,000 a year for a family of four and less than $23,000 a year for an individual).
 
@@ -40,4 +40,4 @@ All of these reasons, and plenty more make Florida full of interesting problems,
 [12]: http://www.linkedin.com/in/laurencstill
 [13]: http://www.healthdataconsortium.org/
 [14]: http://healthdatapalooza.org
-
+[15]: https://www.census.gov/newsroom/releases/pdf/CB14-51_countymetropopest2013tables.pdf
