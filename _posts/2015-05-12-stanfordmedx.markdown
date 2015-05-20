@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stanford MedX
+title: Stanford MedX Research
 catagories: [social media, analytics]
 ---
 
