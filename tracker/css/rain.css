@@ -1,0 +1,30 @@
+/*
+ * special settings for rain
+ */
+
+#head {
+
+	width: 100%;
+}
+footer {
+
+	width: 100%;
+	z-index: 999;
+}
+
+body {
+	overflow-x: hidden !important;
+}
+canvas {
+	z-index: -1;
+}
+#rain-background {
+	z-index: -1000;
+	position: absolute;
+}
+#rain-background {
+	width: 100%;
+}
+#rain-warp {
+	overflow-x: hidden !important;
+}
