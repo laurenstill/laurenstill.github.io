@@ -1,9 +1,3 @@
-/*
-Theme Name: Soonr
-Author: CREATEBRILLIANCE - Media & Consulting
-Author URI: http://www.createbrilliance.com
-Version: 2.2
-*/
 
 
 (function($) { 
@@ -56,13 +50,13 @@ Version: 2.2
 
 
 /*
- * COUNTDOWN
+ * CLOCK
  */
 
 	setInterval(function() {
-		var target = new Date("May 12 2015 21:15:00 GMT+0200"); //replace with YOUR DATE
+		var target = new Date("May 12 2015 08:15:00 GMT+0200"); // Start date, fix math below for countdown vs
 		var now = new Date();
-		var difference = Math.floor((now.getTime() - target.getTime()) / 1000);
+		var difference = Math.floor((now.getTime() - target.getTime()) / 1000); // Bad Lauren
 
 		var seconds = fixIntegers(difference % 60);
 		difference = Math.floor(difference / 60);
