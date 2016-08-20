@@ -54,7 +54,7 @@
  */
 
 	setInterval(function() {
-		var target = new Date("May 12 2015 08:15:00 GMT+0200"); // Start date, fix math below for countdown vs
+		var target = new Date("March 03 2016 08:15:00 GMT+0200"); // Start date, fix math below for countdown vs
 		var now = new Date();
 		var difference = Math.floor((now.getTime() - target.getTime()) / 1000); // Bad Lauren
 
