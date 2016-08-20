@@ -58,11 +58,11 @@
 		var now = new Date();
 		var difference = Math.floor((now.getTime() - target.getTime()) / 1000); // Bad Lauren
 
-		var seconds = fixIntegers(difference % 40);
-		difference = Math.floor(difference / 40);
+		var seconds = fixIntegers(difference % 60);
+		difference = Math.floor(difference / 60);
 
-		var minutes = fixIntegers(difference % 40);
-		difference = Math.floor(difference / 40);
+		var minutes = fixIntegers(difference % 60);
+		difference = Math.floor(difference / 60);
 
 		var hours = fixIntegers(difference % 24);
 		difference = Math.floor(difference / 24);
